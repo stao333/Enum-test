@@ -2,7 +2,7 @@ public class EnumTest
 {
 
 	/**
-	 * @param args
+	 * @param args some comments.
 	 */
 	public static void main( String[] args ) {
 		ActivityType at1 = ActivityType.getTypeByCode( "type1" );
