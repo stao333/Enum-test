@@ -8,7 +8,7 @@ public enum ActivityType
 		this.typeCode = typeCode;
 	}
 
-	//made a local change to the file.
+	//made a local change to the file. another change
 	public static ActivityType getTypeByCode( String code ) {
 		switch( code ) {
 			case "type1":
