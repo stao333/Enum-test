@@ -13,7 +13,7 @@ public class EnumTest
 		System.out.println( at2.toString() );
 		System.out.println( at3.toString() );
 
-		// some comment. playing around again.
+		// some comment. playing around again. third comment
 		ActivityType at4 = ActivityType.getTypeByCode( "type4" );
 		System.out.println( at4.toString() );
 	}
