@@ -15,6 +15,7 @@ public class EnumTest
 
 		// some comment. playing around again. third comment
 		// comment 4, now really conmment, 5.2
+		// change 6 in enum
 		ActivityType at4 = ActivityType.getTypeByCode( "type4" );
 		System.out.println( at4.toString() );
 	}
