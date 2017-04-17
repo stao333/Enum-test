@@ -19,6 +19,7 @@ public class EnumTest
 		// change 6 in enum
         // change 7
         // change 7 from enum
+		// some changes that have to be merged later
 		ActivityType at4 = ActivityType.getTypeByCode( "type4" );
 		System.out.println( at4.toString() );
 	}
