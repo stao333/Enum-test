@@ -10,6 +10,7 @@ public enum ActivityType
 
 	//made a local change to the file. another change, third change
 	// comment 4, now comment 5.1, 5.2
+    // change for merge from enum.
 	public static ActivityType getTypeByCode( String code ) {
 		switch( code ) {
 			case "type1":
